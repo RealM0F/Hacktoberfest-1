@@ -1,2 +1,2 @@
 # Hacktoberfest
-eef
+Starter project for Hacktoberfest hosted by DigitalOcean.
